@@ -31,6 +31,8 @@ public class DLL {
         }
         System.out.println("START");
     }
+    
+   // if tail is not provided
 
     public void insertLast(int val) {
         Node node = new Node(val);
